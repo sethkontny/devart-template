@@ -1,6 +1,5 @@
 # Project Title
-Insert the name of your project
-
+Persona Vox
 ## Authors
 - Insert main author name, surname, github account
 - Insert other author(s) name, surname, github account (one per list element)
